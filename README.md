@@ -26,3 +26,8 @@ Hi, I'm Diwakar Singh — a 3rd year B.Tech CSE student passionate about Softwar
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@Diwakarsingh9090?theme=booru-r6gdrawfriends)
 
+---
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+</p>
+
