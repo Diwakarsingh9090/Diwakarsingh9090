@@ -28,5 +28,5 @@ Hi, I'm Diwakar Singh — a 3rd year B.Tech CSE student passionate about Softwar
 
 
 <p align="center">
-  <img src="https://github.com/Diwakarsingh9090/Diwakarsingh9090/blob/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </p>
