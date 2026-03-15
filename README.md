@@ -11,14 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-- C++
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Express
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
