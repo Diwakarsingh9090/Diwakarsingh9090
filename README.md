@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Diwakar Singh</h1>
+<h3 align="center">Full Stack Developer | MERN | DSA | C++</h3>
 
-<!--
-**Diwakarsingh9090/Diwakarsingh9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE Student
+- 💻 MERN Stack Developer
+- 📚 Solved 300+ DSA problems
+
+---
+
+## 🛠 Tech Stack
+
+- C++
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Express
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
