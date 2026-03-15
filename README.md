@@ -11,6 +11,7 @@
 
 ---
 
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,javascript,mongodb,express,react,nodejs,nextjs,react,postgres,mysql,ts,vite,html,css,prisma,pnpm,yarn,npm,discord,firebase,postman,ubuntu" />
@@ -21,6 +22,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Diwakarsingh9090&show_icons=true)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com/?user=Diwakarsingh9090)
