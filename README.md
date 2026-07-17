@@ -7,7 +7,7 @@
 
 Hi, I'm Diwakar Singh — a 3rd year B.Tech CSE student passionate about Software Development, Problem Solving, and Full Stack Web Development.
 
-- 💻 Solved 300+ DSA problems & practicing Competitive Programming  
+- 💻 Solved 370+ DSA problems & practicing Competitive Programming  
 - 🚀 Building Full Stack apps using MERN & Next.js  
 - 🎯 Currently preparing for Software Engineering Roles  
 - 🧠 Interested in Backend, System Design & Performance Optimization 
